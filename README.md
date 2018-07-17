@@ -1,0 +1,2 @@
+# KenoAnalysis
+The analysis focuses on Caveman Keno game which is a variation of traditional Keno Game. It is a popular game which is played online or in gambling casinos extensively. This variation of Keno adds drawing of 3 numbers by the computer which become dinosaur eggs. If two or three of the eggs match among the 20 numbers drawn, the payouts are then multiplied. The analysis of this project is application of Hypergeometric distribution in a real-world game. 
